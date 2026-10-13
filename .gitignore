@@ -1,0 +1,32 @@
+# Secrets and local environment
+.env
+.env.*
+*.pem
+*.key
+*.token
+
+# Source and private conversion state
+*.pdf
+*.db
+*.sqlite
+*.sqlite3
+.cache/
+cache/
+llm-logs/
+logs/
+prompts/
+responses/
+versions/
+entities/
+
+# ADT/local generated working data
+books/
+tmp/
+temp/
+debug/
+audit-screenshots/
+renders/
+
+# System files
+.DS_Store
+Thumbs.db
