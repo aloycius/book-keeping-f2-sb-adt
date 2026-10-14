@@ -1,0 +1,2645 @@
+{
+  "account": {
+    "word": "account",
+    "definition": "a record that shows increases and decreases in a particular item such as cash, sales, or rent.",
+    "variations": [
+      "account",
+      "accounts"
+    ],
+    "emoji": "🧾📘",
+    "id": "gl001"
+  },
+  "account balance": {
+    "word": "account balance",
+    "definition": "Account balance is the amount left in an account after adding and subtracting all money in and out at a certain time.",
+    "variations": [
+      "account balance",
+      "account balances",
+      "balance",
+      "balances"
+    ],
+    "emoji": "📒💰",
+    "id": "gl002"
+  },
+  "accounting period": {
+    "word": "accounting period",
+    "definition": "the length of time for which financial records are prepared, such as a month or a year",
+    "variations": [
+      "accounting period",
+      "accounting periods"
+    ],
+    "emoji": "📅📊",
+    "id": "gl003"
+  },
+  "activity-based budgeting": {
+    "word": "activity-based budgeting",
+    "definition": "a budgeting method that plans spending based on the activities that create value for the business",
+    "variations": [
+      "activity-based budgeting"
+    ],
+    "emoji": "⚙️📋",
+    "id": "gl004"
+  },
+  "adjusted cash book": {
+    "word": "adjusted cash book",
+    "definition": "a cash book that has been updated to include missing items and corrections before preparing a bank reconciliation statement.",
+    "variations": [
+      "adjusted cash book",
+      "adjusted cash books"
+    ],
+    "emoji": "📒✏️",
+    "id": "gl005"
+  },
+  "adjusted trial balance": {
+    "word": "adjusted trial balance",
+    "definition": "a trial balance prepared after correcting errors and updating account balances.",
+    "variations": [
+      "adjusted trial balance",
+      "adjusted trial balances"
+    ],
+    "emoji": "📊✅",
+    "id": "gl006"
+  },
+  "adjusting item": {
+    "word": "adjusting item",
+    "definition": "an item that must be entered or corrected in the cash book so the balance becomes up to date",
+    "variations": [
+      "adjusting item",
+      "adjusting items",
+      "adjustment",
+      "adjustments"
+    ],
+    "emoji": "✏️🧾",
+    "id": "gl007"
+  },
+  "adjusting items": {
+    "word": "adjusting items",
+    "definition": "entries that must be added or corrected to make the records accurate",
+    "variations": [
+      "adjusting item",
+      "adjusting items"
+    ],
+    "emoji": "✏️📘",
+    "id": "gl008"
+  },
+  "adjustment": {
+    "word": "adjustment",
+    "definition": "a change made to improve or correct something",
+    "variations": [
+      "adjustment",
+      "adjustments",
+      "adjust",
+      "adjusts",
+      "adjusted",
+      "adjusting"
+    ],
+    "emoji": "🔧🔄",
+    "id": "gl009"
+  },
+  "allocate": {
+    "word": "allocate",
+    "definition": "to give or assign money or resources to a particular use",
+    "variations": [
+      "allocate",
+      "allocates",
+      "allocated",
+      "allocating",
+      "allocation"
+    ],
+    "emoji": "↔️💰",
+    "id": "gl010"
+  },
+  "altered cheque": {
+    "word": "altered cheque",
+    "definition": "An altered cheque is a cheque that has been changed after it was written, often to cheat or steal money.",
+    "variations": [
+      "altered cheque",
+      "altered cheques",
+      "cheque",
+      "cheques"
+    ],
+    "emoji": "🧾✏️⚠️",
+    "id": "gl011"
+  },
+  "analysis column": {
+    "word": "analysis column",
+    "definition": "a special column used to group similar expenses or items in a book of account.",
+    "variations": [
+      "analysis column",
+      "analysis columns"
+    ],
+    "emoji": "📊📑",
+    "id": "gl012"
+  },
+  "analytical expense column": {
+    "word": "analytical expense column",
+    "definition": "a special column in the petty cash book used for a particular type of expense",
+    "variations": [
+      "analytical expense column",
+      "analytical expense columns"
+    ],
+    "emoji": "📊🗂️",
+    "id": "gl013"
+  },
+  "asset": {
+    "word": "asset",
+    "definition": "something valuable owned by a business, such as cash or equipment",
+    "variations": [
+      "asset",
+      "assets"
+    ],
+    "emoji": "💎🏢",
+    "id": "gl014"
+  },
+  "assets": {
+    "word": "assets",
+    "definition": "things a business owns that have value, such as cash, buildings, or equipment.",
+    "variations": [
+      "asset",
+      "assets"
+    ],
+    "emoji": "🏢💰",
+    "id": "gl015"
+  },
+  "balance": {
+    "word": "balance",
+    "definition": "the amount remaining in an account after comparing money in and money out",
+    "variations": [
+      "balance",
+      "balances",
+      "balanced",
+      "balancing"
+    ],
+    "emoji": "⚖️💹",
+    "id": "gl016"
+  },
+  "balance brought down": {
+    "word": "balance brought down",
+    "definition": "the opening balance written at the start of the next period",
+    "variations": [
+      "balance brought down",
+      "brought down",
+      "b/d"
+    ],
+    "emoji": "🔁🧾",
+    "id": "gl017"
+  },
+  "balance c/d": {
+    "word": "balance c/d",
+    "definition": "the balance carried down to the next stage of an account before it is brought forward.",
+    "variations": [
+      "balance c/d"
+    ],
+    "emoji": "🔽🧾",
+    "id": "gl018"
+  },
+  "balance carried down": {
+    "word": "balance carried down",
+    "definition": "the closing balance written at the end of an account for one period",
+    "variations": [
+      "balance carried down",
+      "carried down",
+      "c/d"
+    ],
+    "emoji": "⬇️🧾",
+    "id": "gl019"
+  },
+  "bank": {
+    "word": "bank",
+    "definition": "a financial institution where money is kept, deposited, or withdrawn for business use.",
+    "variations": [
+      "bank",
+      "banks",
+      "banking",
+      "banked"
+    ],
+    "emoji": "🏦💰",
+    "id": "gl020"
+  },
+  "bank account": {
+    "word": "bank account",
+    "definition": "a record at a bank where money is kept, received, or paid out",
+    "variations": [
+      "bank account",
+      "bank accounts"
+    ],
+    "emoji": "🏦📘",
+    "id": "gl021"
+  },
+  "bank charges": {
+    "word": "bank charges",
+    "definition": "fees taken by the bank for services it provides.",
+    "variations": [
+      "bank charge",
+      "bank charges"
+    ],
+    "emoji": "🏦💸",
+    "id": "gl022"
+  },
+  "bank column": {
+    "word": "bank column",
+    "definition": "the part of a cash book where money paid into or out of the bank is recorded",
+    "variations": [
+      "bank column",
+      "bank columns"
+    ],
+    "emoji": "🏦📊",
+    "id": "gl023"
+  },
+  "bank overdraft": {
+    "word": "bank overdraft",
+    "definition": "a situation where more money is withdrawn from a bank account than is available",
+    "variations": [
+      "bank overdraft",
+      "bank overdrafts",
+      "overdraft",
+      "overdrafts"
+    ],
+    "emoji": "🏦⚠️",
+    "id": "gl024"
+  },
+  "bank reconciliation statement": {
+    "word": "bank reconciliation statement",
+    "definition": "a statement prepared to explain and match the difference between the cash book bank balance and the bank statement balance.",
+    "variations": [
+      "bank reconciliation statement",
+      "bank reconciliation statements"
+    ],
+    "emoji": "🏦⚖️🧾",
+    "id": "gl025"
+  },
+  "bank statement": {
+    "word": "bank statement",
+    "definition": "a report from the bank showing money paid in, money paid out, and the balance in an account.",
+    "variations": [
+      "bank statement",
+      "bank statements"
+    ],
+    "emoji": "🏦📄",
+    "id": "gl026"
+  },
+  "banking": {
+    "word": "banking",
+    "definition": "the use of a bank to keep, send, receive, or manage money",
+    "variations": [
+      "banking",
+      "bank"
+    ],
+    "emoji": "🏦💳",
+    "id": "gl027"
+  },
+  "banking transaction": {
+    "word": "banking transaction",
+    "definition": "a money activity that happens through a bank account, such as depositing, withdrawing, or transferring money",
+    "variations": [
+      "banking transaction",
+      "banking transactions"
+    ],
+    "emoji": "🏦💸",
+    "id": "gl028"
+  },
+  "bearer cheque": {
+    "word": "bearer cheque",
+    "definition": "a cheque that can be paid to whoever presents it to the bank",
+    "variations": [
+      "bearer cheque",
+      "bearer cheques"
+    ],
+    "emoji": "📄🙌",
+    "id": "gl029"
+  },
+  "book of original entry": {
+    "word": "book of original entry",
+    "definition": "the first place where a business transaction is recorded",
+    "variations": [
+      "book of original entry",
+      "books of original entry"
+    ],
+    "emoji": "📝📒",
+    "id": "gl030"
+  },
+  "book-keeping": {
+    "word": "book-keeping",
+    "definition": "the process of recording a business’s money activities, such as what it receives and what it pays",
+    "variations": [
+      "book-keeping"
+    ],
+    "emoji": "📘🧾",
+    "id": "gl031"
+  },
+  "book-keeping error": {
+    "word": "book-keeping error",
+    "definition": "a mistake made when recording, posting, or balancing accounts.",
+    "variations": [
+      "book-keeping error",
+      "book-keeping errors",
+      "bookkeeping error",
+      "bookkeeping errors"
+    ],
+    "emoji": "❌📚",
+    "id": "gl032"
+  },
+  "budget": {
+    "word": "budget",
+    "definition": "a financial plan that shows expected income and spending for a certain period",
+    "variations": [
+      "budget",
+      "budgets"
+    ],
+    "emoji": "📊💵",
+    "id": "gl033"
+  },
+  "budgetary control": {
+    "word": "budgetary control",
+    "definition": "checking actual spending and income against the budget and taking action when needed",
+    "variations": [
+      "budgetary control"
+    ],
+    "emoji": "📉✅",
+    "id": "gl034"
+  },
+  "budgeting": {
+    "word": "budgeting",
+    "definition": "the process of planning how money will be received and spent",
+    "variations": [
+      "budgeting"
+    ],
+    "emoji": "📝💰",
+    "id": "gl035"
+  },
+  "bursar": {
+    "word": "bursar",
+    "definition": "A bursar is a person in a school, college, or university who manages money and funds.",
+    "variations": [
+      "bursar",
+      "bursars"
+    ],
+    "emoji": "🏫💵",
+    "id": "gl036"
+  },
+  "business expansion": {
+    "word": "business expansion",
+    "definition": "the growth of a business by increasing its size or activities",
+    "variations": [
+      "business expansion",
+      "business expansions"
+    ],
+    "emoji": "📈🏢",
+    "id": "gl037"
+  },
+  "capital": {
+    "word": "capital",
+    "definition": "money or other resources invested by the owner to start or run a business",
+    "variations": [
+      "capital"
+    ],
+    "emoji": "💰🚀",
+    "id": "gl038"
+  },
+  "carriage inwards": {
+    "word": "carriage inwards",
+    "definition": "the cost of bringing purchased goods into the business",
+    "variations": [
+      "carriage inward",
+      "carriage inwards"
+    ],
+    "emoji": "🚚📦",
+    "id": "gl039"
+  },
+  "cash": {
+    "word": "cash",
+    "definition": "money in the form of notes and coins that can be used directly to pay for something",
+    "variations": [
+      "cash"
+    ],
+    "emoji": "💵🪙",
+    "id": "gl040"
+  },
+  "cash account": {
+    "word": "cash account",
+    "definition": "a record that shows money received in cash and money paid out in cash",
+    "variations": [
+      "cash account",
+      "cash accounts"
+    ],
+    "emoji": "💵📘",
+    "id": "gl041"
+  },
+  "cash book": {
+    "word": "cash book",
+    "definition": "a book used to record all cash received and cash paid by a business",
+    "variations": [
+      "cash book",
+      "cash books"
+    ],
+    "emoji": "📒💵",
+    "id": "gl042"
+  },
+  "cash budget": {
+    "word": "cash budget",
+    "definition": "a plan that shows expected cash coming in and cash going out during a certain period",
+    "variations": [
+      "cash budget",
+      "cash budgets"
+    ],
+    "emoji": "💰📋",
+    "id": "gl043"
+  },
+  "cash column": {
+    "word": "cash column",
+    "definition": "the part of a cash book where cash received or paid is recorded",
+    "variations": [
+      "cash column",
+      "cash columns"
+    ],
+    "emoji": "💵📊",
+    "id": "gl044"
+  },
+  "cash discount": {
+    "word": "cash discount",
+    "definition": "a price reduction given when payment is made within a stated time.",
+    "variations": [
+      "cash discount",
+      "cash discounts"
+    ],
+    "emoji": "💵🏷️",
+    "id": "gl045"
+  },
+  "cash float": {
+    "word": "cash float",
+    "definition": "the fixed amount of cash given at the start for petty cash use.",
+    "variations": [
+      "cash float",
+      "cash floats"
+    ],
+    "emoji": "💵📦",
+    "id": "gl046"
+  },
+  "cash flow": {
+    "word": "cash flow",
+    "definition": "the movement of money into and out of a business",
+    "variations": [
+      "cash flow",
+      "cash flows"
+    ],
+    "emoji": "💵🔄",
+    "id": "gl047"
+  },
+  "cash inflow": {
+    "word": "cash inflow",
+    "definition": "money that comes into a person’s or business’s hands",
+    "variations": [
+      "cash inflow",
+      "cash inflows"
+    ],
+    "emoji": "⬇️💵",
+    "id": "gl048"
+  },
+  "cash outflow": {
+    "word": "cash outflow",
+    "definition": "money that goes out to pay for expenses or other costs",
+    "variations": [
+      "cash outflow",
+      "cash outflows"
+    ],
+    "emoji": "⬆️💸",
+    "id": "gl049"
+  },
+  "cash payment": {
+    "word": "cash payment",
+    "definition": "money paid out by a business and recorded in the cash book",
+    "variations": [
+      "cash payment",
+      "cash payments"
+    ],
+    "emoji": "💸⬆️",
+    "id": "gl050"
+  },
+  "cash receipt": {
+    "word": "cash receipt",
+    "definition": "money received by a business and recorded in the cash book",
+    "variations": [
+      "cash receipt",
+      "cash receipts"
+    ],
+    "emoji": "💵⬇️",
+    "id": "gl051"
+  },
+  "cash shortage": {
+    "word": "cash shortage",
+    "definition": "a situation where there is not enough cash to pay for needs or expenses",
+    "variations": [
+      "cash shortage",
+      "cash shortages"
+    ],
+    "emoji": "💵⚠️",
+    "id": "gl052"
+  },
+  "cash transaction": {
+    "word": "cash transaction",
+    "definition": "a payment or receipt in which physical money is used",
+    "variations": [
+      "cash transaction",
+      "cash transactions"
+    ],
+    "emoji": "💵🤝",
+    "id": "gl053"
+  },
+  "cashier": {
+    "word": "cashier",
+    "definition": "a person responsible for receiving, paying, and handling cash in a business.",
+    "variations": [
+      "cashier",
+      "cashiers"
+    ],
+    "emoji": "👨‍💼💵",
+    "id": "gl054"
+  },
+  "casting error": {
+    "word": "casting error",
+    "definition": "a mistake in adding up figures in an account or book",
+    "variations": [
+      "casting error",
+      "casting errors"
+    ],
+    "emoji": "➕❌",
+    "id": "gl055"
+  },
+  "cheque": {
+    "word": "cheque",
+    "definition": "a written instruction telling a bank to pay a stated amount of money",
+    "variations": [
+      "cheque",
+      "cheques"
+    ],
+    "emoji": "📄🏦",
+    "id": "gl056"
+  },
+  "cheque clearing": {
+    "word": "cheque clearing",
+    "definition": "Cheque clearing is the process of moving money from one bank account to another to complete a cheque payment.",
+    "variations": [
+      "cheque clearing",
+      "clearing"
+    ],
+    "emoji": "🧾🏦",
+    "id": "gl057"
+  },
+  "cheques register": {
+    "word": "cheques register",
+    "definition": "A cheques register is a record used to list cheques written and their details, such as cheque numbers and payments.",
+    "variations": [
+      "cheques register",
+      "cheque register",
+      "register",
+      "registers"
+    ],
+    "emoji": "📋🧾",
+    "id": "gl058"
+  },
+  "clearing": {
+    "word": "clearing",
+    "definition": "the process the bank uses to confirm and complete a cheque payment",
+    "variations": [
+      "clearing",
+      "cleared",
+      "clear"
+    ],
+    "emoji": "✅🏦",
+    "id": "gl059"
+  },
+  "closing balance": {
+    "word": "closing balance",
+    "definition": "the amount of money left at the end of a period",
+    "variations": [
+      "closing balance",
+      "closing balances"
+    ],
+    "emoji": "🔚💰",
+    "id": "gl060"
+  },
+  "commission": {
+    "word": "commission",
+    "definition": "an error where the correct amount is entered but in the wrong account",
+    "variations": [
+      "commission",
+      "error of commission",
+      "errors of commission"
+    ],
+    "emoji": "🔁❌",
+    "id": "gl061"
+  },
+  "commission income": {
+    "word": "commission income",
+    "definition": "money earned for selling or arranging sales for others.",
+    "variations": [
+      "commission income",
+      "commission incomes",
+      "commission"
+    ],
+    "emoji": "💼💰",
+    "id": "gl062"
+  },
+  "compensating error": {
+    "word": "compensating error",
+    "definition": "an error that is cancelled out by another error, making the totals still appear correct",
+    "variations": [
+      "compensating error",
+      "compensating errors"
+    ],
+    "emoji": "➕➖",
+    "id": "gl063"
+  },
+  "compensating errors": {
+    "word": "compensating errors",
+    "definition": "two or more errors that cancel each other so the trial balance still agrees.",
+    "variations": [
+      "compensating error",
+      "compensating errors"
+    ],
+    "emoji": "⚖️🧩",
+    "id": "gl064"
+  },
+  "complete reversal": {
+    "word": "complete reversal",
+    "definition": "an error where the debit and credit sides are recorded the opposite way round",
+    "variations": [
+      "complete reversal",
+      "complete reversals",
+      "error of complete reversal",
+      "errors of complete reversal"
+    ],
+    "emoji": "🔄↩️",
+    "id": "gl065"
+  },
+  "complete reversal of entries": {
+    "word": "complete reversal of entries",
+    "definition": "an error in which debit and credit entries are made on the wrong sides of the accounts.",
+    "variations": [
+      "complete reversal of entries",
+      "error of complete reversal of entries"
+    ],
+    "emoji": "🔄↔️",
+    "id": "gl066"
+  },
+  "comprehensive": {
+    "word": "comprehensive",
+    "definition": "including all or almost all important parts",
+    "variations": [
+      "comprehensive"
+    ],
+    "emoji": "📚✅",
+    "id": "gl067"
+  },
+  "contra entry": {
+    "word": "contra entry",
+    "definition": "an entry recorded on both sides of a cash book because it affects cash and bank at the same time",
+    "variations": [
+      "contra entry",
+      "contra entries"
+    ],
+    "emoji": "🔄📘",
+    "id": "gl068"
+  },
+  "corrective action": {
+    "word": "corrective action",
+    "definition": "a step taken to fix a problem or improve a situation",
+    "variations": [
+      "corrective action",
+      "corrective actions"
+    ],
+    "emoji": "🛠️✅",
+    "id": "gl069"
+  },
+  "cost": {
+    "word": "cost",
+    "definition": "the amount of money needed to buy, do, or produce something",
+    "variations": [
+      "cost",
+      "costs"
+    ],
+    "emoji": "💸🧾",
+    "id": "gl070"
+  },
+  "cost driver": {
+    "word": "cost driver",
+    "definition": "A cost driver is something that causes the cost of a product or service to increase or decrease.",
+    "variations": [
+      "cost driver",
+      "cost drivers"
+    ],
+    "emoji": "📈🏭",
+    "id": "gl071"
+  },
+  "credit": {
+    "word": "credit",
+    "definition": "an entry on the right side of an account; for asset accounts, it usually shows a decrease",
+    "variations": [
+      "credit",
+      "credits",
+      "credited"
+    ],
+    "emoji": "➡️🧾",
+    "id": "gl072"
+  },
+  "credit balance": {
+    "word": "credit balance",
+    "definition": "an amount recorded on the credit side; in this topic, it can show money owed to the bank or an overdraft",
+    "variations": [
+      "credit balance",
+      "credit balances"
+    ],
+    "emoji": "➖📘",
+    "id": "gl073"
+  },
+  "credit terms": {
+    "word": "credit terms",
+    "definition": "the conditions that explain when and how a customer must pay for goods bought on credit.",
+    "variations": [
+      "credit term",
+      "credit terms"
+    ],
+    "emoji": "📅🧾",
+    "id": "gl074"
+  },
+  "credit transfer": {
+    "word": "credit transfer",
+    "definition": "money received directly into a bank account from another account",
+    "variations": [
+      "credit transfer",
+      "credit transfers"
+    ],
+    "emoji": "⬆️💳",
+    "id": "gl075"
+  },
+  "credited": {
+    "word": "credited",
+    "definition": "added to an account balance",
+    "variations": [
+      "credit",
+      "credits",
+      "credited",
+      "crediting"
+    ],
+    "emoji": "➕💳",
+    "id": "gl076"
+  },
+  "creditor": {
+    "word": "creditor",
+    "definition": "a person or business that is owed money by the business",
+    "variations": [
+      "creditor",
+      "creditors"
+    ],
+    "emoji": "📌💰",
+    "id": "gl077"
+  },
+  "crossed cheque": {
+    "word": "crossed cheque",
+    "definition": "a cheque marked with lines to show it must be paid into a bank account, not as cash",
+    "variations": [
+      "crossed cheque",
+      "crossed cheques"
+    ],
+    "emoji": "📄❌🏦",
+    "id": "gl078"
+  },
+  "current account": {
+    "word": "current account",
+    "definition": "a bank account used by businesses for frequent deposits and withdrawals, often by cheque",
+    "variations": [
+      "current account",
+      "current accounts"
+    ],
+    "emoji": "🏦📄",
+    "id": "gl079"
+  },
+  "current asset": {
+    "word": "current asset",
+    "definition": "an asset that is expected to be used, sold, or turned into cash within a short time, usually one year",
+    "variations": [
+      "current asset",
+      "current assets"
+    ],
+    "emoji": "💵📈",
+    "id": "gl080"
+  },
+  "current liability": {
+    "word": "current liability",
+    "definition": "a debt or obligation that a business is expected to pay within a short time, usually one year",
+    "variations": [
+      "current liability",
+      "current liabilities"
+    ],
+    "emoji": "💳📉",
+    "id": "gl081"
+  },
+  "daybook": {
+    "word": "daybook",
+    "definition": "a book of original entry where transactions are first recorded before posting to ledgers.",
+    "variations": [
+      "daybook",
+      "daybooks"
+    ],
+    "emoji": "📔📝",
+    "id": "gl082"
+  },
+  "debit": {
+    "word": "debit",
+    "definition": "an entry on the left side of an account; for asset accounts, it usually shows an increase",
+    "variations": [
+      "debit",
+      "debits",
+      "debited"
+    ],
+    "emoji": "⬅️🧾",
+    "id": "gl083"
+  },
+  "debit balance": {
+    "word": "debit balance",
+    "definition": "an amount recorded on the debit side; in a bank account, it often shows money available in the account",
+    "variations": [
+      "debit balance",
+      "debit balances"
+    ],
+    "emoji": "➕💰",
+    "id": "gl084"
+  },
+  "debt": {
+    "word": "debt",
+    "definition": "money that is owed to another person or organisation",
+    "variations": [
+      "debt",
+      "debts"
+    ],
+    "emoji": "💳📉",
+    "id": "gl085"
+  },
+  "debtor": {
+    "word": "debtor",
+    "definition": "a person or business that owes money to the business",
+    "variations": [
+      "debtor",
+      "debtors"
+    ],
+    "emoji": "👤💸",
+    "id": "gl086"
+  },
+  "deficit": {
+    "word": "deficit",
+    "definition": "A deficit happens when spending is more than income during a period of time.",
+    "variations": [
+      "deficit",
+      "deficits"
+    ],
+    "emoji": "📉💸",
+    "id": "gl087"
+  },
+  "deposit": {
+    "word": "deposit",
+    "definition": "money paid into a bank account",
+    "variations": [
+      "deposit",
+      "deposits",
+      "deposited",
+      "depositing"
+    ],
+    "emoji": "🏦📥",
+    "id": "gl088"
+  },
+  "deposit in transit": {
+    "word": "deposit in transit",
+    "definition": "money already recorded in the cash book as deposited but not yet shown in the bank statement",
+    "variations": [
+      "deposit in transit",
+      "deposits in transit"
+    ],
+    "emoji": "💰🚚",
+    "id": "gl089"
+  },
+  "deposited": {
+    "word": "deposited",
+    "definition": "paid into a bank account",
+    "variations": [
+      "deposit",
+      "deposits",
+      "deposited",
+      "depositing"
+    ],
+    "emoji": "💵🏦",
+    "id": "gl090"
+  },
+  "deposits in transit": {
+    "word": "deposits in transit",
+    "definition": "money already paid into the bank but not yet shown on the bank statement",
+    "variations": [
+      "deposit in transit",
+      "deposits in transit"
+    ],
+    "emoji": "💵🚶🏦",
+    "id": "gl091"
+  },
+  "depreciation": {
+    "word": "depreciation",
+    "definition": "the decrease in value of an asset over time because of use or age",
+    "variations": [
+      "depreciation"
+    ],
+    "emoji": "📉🏷️",
+    "id": "gl092"
+  },
+  "direct credit": {
+    "word": "direct credit",
+    "definition": "money paid directly into a bank account",
+    "variations": [
+      "direct credit",
+      "direct credits"
+    ],
+    "emoji": "⬆️🏦",
+    "id": "gl093"
+  },
+  "direct debit": {
+    "word": "direct debit",
+    "definition": "a payment that the bank takes automatically from an account",
+    "variations": [
+      "direct debit",
+      "direct debits"
+    ],
+    "emoji": "🏦⬇️",
+    "id": "gl094"
+  },
+  "direct deposit": {
+    "word": "direct deposit",
+    "definition": "money paid straight into a bank account without using a cheque",
+    "variations": [
+      "direct deposit",
+      "direct deposits"
+    ],
+    "emoji": "⬇️🏦💵",
+    "id": "gl095"
+  },
+  "direct transfer": {
+    "word": "direct transfer",
+    "definition": "money moved directly from one bank account to another",
+    "variations": [
+      "direct transfer",
+      "direct transfers"
+    ],
+    "emoji": "🔄💳",
+    "id": "gl096"
+  },
+  "disbursement": {
+    "word": "disbursement",
+    "definition": "Disbursement is the payment of money for expenses or duties that must be paid.",
+    "variations": [
+      "disbursement",
+      "disbursements",
+      "disburse",
+      "disbursed"
+    ],
+    "emoji": "💳💵",
+    "id": "gl097"
+  },
+  "discount": {
+    "word": "discount",
+    "definition": "a reduction in the normal price of goods or services.",
+    "variations": [
+      "discount",
+      "discounts",
+      "discounted"
+    ],
+    "emoji": "🏷️📉",
+    "id": "gl098"
+  },
+  "discount allowed": {
+    "word": "discount allowed",
+    "definition": "a discount given by the business to customers who pay within the agreed time",
+    "variations": [
+      "discount allowed",
+      "discounts allowed"
+    ],
+    "emoji": "🤝📉",
+    "id": "gl099"
+  },
+  "discount received": {
+    "word": "discount received",
+    "definition": "a discount gained by the business when it pays suppliers within the agreed time",
+    "variations": [
+      "discount received",
+      "discounts received"
+    ],
+    "emoji": "💹✅",
+    "id": "gl100"
+  },
+  "discounts allowed": {
+    "word": "discounts allowed",
+    "definition": "reductions in price given by a business to its customers.",
+    "variations": [
+      "discount allowed",
+      "discounts allowed"
+    ],
+    "emoji": "🏷️⬇️",
+    "id": "gl101"
+  },
+  "discounts received": {
+    "word": "discounts received",
+    "definition": "reductions in price received by a business from suppliers or sellers.",
+    "variations": [
+      "discount received",
+      "discounts received"
+    ],
+    "emoji": "🎉🏷️",
+    "id": "gl102"
+  },
+  "discrepancy": {
+    "word": "discrepancy",
+    "definition": "a difference between two amounts or records that should match",
+    "variations": [
+      "discrepancy",
+      "discrepancies"
+    ],
+    "emoji": "⚠️🧾",
+    "id": "gl103"
+  },
+  "dishonoured": {
+    "word": "dishonoured",
+    "definition": "not accepted or paid by the bank",
+    "variations": [
+      "dishonour",
+      "dishonoured",
+      "dishonoring",
+      "dishonouring"
+    ],
+    "emoji": "❌🏦",
+    "id": "gl104"
+  },
+  "dishonoured cheque": {
+    "word": "dishonoured cheque",
+    "definition": "a cheque that the bank refuses to pay.",
+    "variations": [
+      "dishonoured cheque",
+      "dishonoured cheques"
+    ],
+    "emoji": "❌💳",
+    "id": "gl105"
+  },
+  "dividend": {
+    "word": "dividend",
+    "definition": "money paid to the owner or shareholder as a share of profit",
+    "variations": [
+      "dividend",
+      "dividends"
+    ],
+    "emoji": "💹💵",
+    "id": "gl106"
+  },
+  "double entry": {
+    "word": "double entry",
+    "definition": "a recording system in which every business transaction affects at least two accounts",
+    "variations": [
+      "double entry",
+      "double-entry"
+    ],
+    "emoji": "⚖️🧾",
+    "id": "gl107"
+  },
+  "doubtful debts": {
+    "word": "doubtful debts",
+    "definition": "money owed to a business that may not be paid back",
+    "variations": [
+      "doubtful debt",
+      "doubtful debts"
+    ],
+    "emoji": "⚠️🧾",
+    "id": "gl108"
+  },
+  "drawee": {
+    "word": "drawee",
+    "definition": "the bank that is ordered to pay the money written on a cheque",
+    "variations": [
+      "drawee",
+      "drawees"
+    ],
+    "emoji": "🏦📄",
+    "id": "gl109"
+  },
+  "drawer": {
+    "word": "drawer",
+    "definition": "the person who writes or issues a cheque",
+    "variations": [
+      "drawer",
+      "drawers"
+    ],
+    "emoji": "✍️📄",
+    "id": "gl110"
+  },
+  "drawings": {
+    "word": "drawings",
+    "definition": "money or goods taken from the business by the owner for personal use.",
+    "variations": [
+      "drawing",
+      "drawings"
+    ],
+    "emoji": "👤💸",
+    "id": "gl111"
+  },
+  "endorsed": {
+    "word": "endorsed",
+    "definition": "signed on the back of a cheque to approve it for payment or transfer",
+    "variations": [
+      "endorse",
+      "endorsed",
+      "endorsing",
+      "endorsement"
+    ],
+    "emoji": "✍️📄",
+    "id": "gl112"
+  },
+  "error": {
+    "word": "error",
+    "definition": "a mistake made when recording or processing money transactions",
+    "variations": [
+      "error",
+      "errors"
+    ],
+    "emoji": "❌✏️",
+    "id": "gl113"
+  },
+  "error of commission": {
+    "word": "error of commission",
+    "definition": "an error made when the correct amount is entered in the wrong person's account or similar wrong account.",
+    "variations": [
+      "error of commission",
+      "errors of commission"
+    ],
+    "emoji": "🔀❌",
+    "id": "gl114"
+  },
+  "error of omission": {
+    "word": "error of omission",
+    "definition": "an error that happens when a transaction is completely left out of the accounts.",
+    "variations": [
+      "error of omission",
+      "errors of omission"
+    ],
+    "emoji": "🚫🧾",
+    "id": "gl115"
+  },
+  "error of original entry": {
+    "word": "error of original entry",
+    "definition": "an error where the wrong amount is first entered and then posted correctly to the accounts.",
+    "variations": [
+      "error of original entry",
+      "errors of original entry"
+    ],
+    "emoji": "✍️❗",
+    "id": "gl116"
+  },
+  "error of principle": {
+    "word": "error of principle",
+    "definition": "an error that happens when an amount is entered in the wrong type or class of account.",
+    "variations": [
+      "error of principle",
+      "errors of principle"
+    ],
+    "emoji": "📂⚠️",
+    "id": "gl117"
+  },
+  "estimate": {
+    "word": "estimate",
+    "definition": "a careful guess of an amount or cost",
+    "variations": [
+      "estimate",
+      "estimates",
+      "estimated",
+      "estimating",
+      "estimation"
+    ],
+    "emoji": "🤔🧮",
+    "id": "gl118"
+  },
+  "expenditure": {
+    "word": "expenditure",
+    "definition": "money spent by a person or business",
+    "variations": [
+      "expenditure",
+      "expenditures"
+    ],
+    "emoji": "💸📉",
+    "id": "gl119"
+  },
+  "expense": {
+    "word": "expense",
+    "definition": "money spent by a person or business",
+    "variations": [
+      "expense",
+      "expenses"
+    ],
+    "emoji": "🧾💸",
+    "id": "gl120"
+  },
+  "expense account": {
+    "word": "expense account",
+    "definition": "an account used to record money spent on a particular business cost",
+    "variations": [
+      "expense account",
+      "expense accounts"
+    ],
+    "emoji": "💸📒",
+    "id": "gl121"
+  },
+  "expenses": {
+    "word": "expenses",
+    "definition": "costs a business pays in order to operate.",
+    "variations": [
+      "expense",
+      "expenses"
+    ],
+    "emoji": "💸🏢",
+    "id": "gl122"
+  },
+  "favourable balance": {
+    "word": "favourable balance",
+    "definition": "a positive balance showing that there is money available in the bank account",
+    "variations": [
+      "favourable balance",
+      "favourable balances"
+    ],
+    "emoji": "✅💰",
+    "id": "gl123"
+  },
+  "financial obligation": {
+    "word": "financial obligation",
+    "definition": "a payment or duty to pay money that a person or business must meet",
+    "variations": [
+      "financial obligation",
+      "financial obligations"
+    ],
+    "emoji": "📌💳",
+    "id": "gl124"
+  },
+  "financial position": {
+    "word": "financial position",
+    "definition": "the state of a business’s money and property at a certain time",
+    "variations": [
+      "financial position",
+      "financial positions"
+    ],
+    "emoji": "📊💼",
+    "id": "gl125"
+  },
+  "financial stability": {
+    "word": "financial stability",
+    "definition": "a condition where money is managed well and there are no serious money problems",
+    "variations": [
+      "financial stability"
+    ],
+    "emoji": "🏦⚖️",
+    "id": "gl126"
+  },
+  "financial statement": {
+    "word": "financial statement",
+    "definition": "a formal report that shows the financial activities and position of a business",
+    "variations": [
+      "financial statement",
+      "financial statements"
+    ],
+    "emoji": "📊📄",
+    "id": "gl127"
+  },
+  "financial statements": {
+    "word": "financial statements",
+    "definition": "formal reports that show the financial performance and position of a business",
+    "variations": [
+      "financial statement",
+      "financial statements"
+    ],
+    "emoji": "📊📑",
+    "id": "gl128"
+  },
+  "financial target": {
+    "word": "financial target",
+    "definition": "a money goal that a person or business plans to achieve",
+    "variations": [
+      "financial target",
+      "financial targets"
+    ],
+    "emoji": "🎯💰",
+    "id": "gl129"
+  },
+  "flexible": {
+    "word": "flexible",
+    "definition": "able to change or adjust when conditions change",
+    "variations": [
+      "flexible",
+      "flexibility"
+    ],
+    "emoji": "🔄🤸",
+    "id": "gl130"
+  },
+  "folio": {
+    "word": "folio",
+    "definition": "a reference column used to show where related entries can be found",
+    "variations": [
+      "folio",
+      "folios"
+    ],
+    "emoji": "🔖📄",
+    "id": "gl131"
+  },
+  "fraud": {
+    "word": "fraud",
+    "definition": "dishonest action meant to cheat or steal money or property.",
+    "variations": [
+      "fraud",
+      "frauds",
+      "fraudulent"
+    ],
+    "emoji": "🕵️🚫",
+    "id": "gl132"
+  },
+  "general journal": {
+    "word": "general journal",
+    "definition": "a book where transactions and corrections are first recorded before posting to accounts.",
+    "variations": [
+      "general journal",
+      "general journals",
+      "journal",
+      "journals"
+    ],
+    "emoji": "📔✍️",
+    "id": "gl133"
+  },
+  "general ledger": {
+    "word": "general ledger",
+    "definition": "the main ledger that contains all the accounts of a business",
+    "variations": [
+      "general ledger",
+      "general ledgers",
+      "GL"
+    ],
+    "emoji": "📚🏷️",
+    "id": "gl134"
+  },
+  "goal-oriented": {
+    "word": "goal-oriented",
+    "definition": "focused on achieving a specific aim or result",
+    "variations": [
+      "goal-oriented"
+    ],
+    "emoji": "🎯🚀",
+    "id": "gl135"
+  },
+  "goods": {
+    "word": "goods",
+    "definition": "things that are made or sold for people to buy and use",
+    "variations": [
+      "goods"
+    ],
+    "emoji": "📦🛍️",
+    "id": "gl136"
+  },
+  "imprest": {
+    "word": "imprest",
+    "definition": "an amount of money given in advance for making payments, to be accounted for later",
+    "variations": [
+      "imprest",
+      "imprests"
+    ],
+    "emoji": "💰📋",
+    "id": "gl137"
+  },
+  "imprest system": {
+    "word": "imprest system",
+    "definition": "a petty cash system where a fixed amount is given and later restored by the amount spent",
+    "variations": [
+      "imprest system",
+      "imprest systems"
+    ],
+    "emoji": "🔁💵",
+    "id": "gl138"
+  },
+  "incremental budgeting": {
+    "word": "incremental budgeting",
+    "definition": "a budgeting method that starts with the previous budget and makes small changes to it",
+    "variations": [
+      "incremental budgeting"
+    ],
+    "emoji": "📈📝",
+    "id": "gl139"
+  },
+  "inflow": {
+    "word": "inflow",
+    "definition": "money coming into a business or account",
+    "variations": [
+      "inflow",
+      "inflows"
+    ],
+    "emoji": "⬇️💰",
+    "id": "gl140"
+  },
+  "insufficient funds": {
+    "word": "insufficient funds",
+    "definition": "not having enough money in the bank account to make a payment",
+    "variations": [
+      "insufficient funds"
+    ],
+    "emoji": "💸⚠️",
+    "id": "gl141"
+  },
+  "insurance premium": {
+    "word": "insurance premium",
+    "definition": "the money paid regularly for insurance cover",
+    "variations": [
+      "insurance premium",
+      "insurance premiums"
+    ],
+    "emoji": "🛡️💸",
+    "id": "gl142"
+  },
+  "interest": {
+    "word": "interest",
+    "definition": "money earned from saving or investing money, or money paid for borrowing",
+    "variations": [
+      "interest",
+      "interests"
+    ],
+    "emoji": "📈💵",
+    "id": "gl143"
+  },
+  "interest income": {
+    "word": "interest income",
+    "definition": "money earned from lending money or keeping money in an account.",
+    "variations": [
+      "interest income"
+    ],
+    "emoji": "📈💰",
+    "id": "gl144"
+  },
+  "inventory": {
+    "word": "inventory",
+    "definition": "goods a business has on hand for sale or use.",
+    "variations": [
+      "inventory",
+      "inventories"
+    ],
+    "emoji": "📦🏪",
+    "id": "gl145"
+  },
+  "invoice": {
+    "word": "invoice",
+    "definition": "a document showing goods sold or bought and the amount to be paid.",
+    "variations": [
+      "invoice",
+      "invoices"
+    ],
+    "emoji": "📄🛒",
+    "id": "gl146"
+  },
+  "journal": {
+    "word": "journal",
+    "definition": "a book of original entry where transactions are first recorded",
+    "variations": [
+      "journal",
+      "journals"
+    ],
+    "emoji": "✍️📘",
+    "id": "gl147"
+  },
+  "journal entry": {
+    "word": "journal entry",
+    "definition": "the first accounting record made to show a transaction.",
+    "variations": [
+      "journal entry",
+      "journal entries"
+    ],
+    "emoji": "✍️📔",
+    "id": "gl148"
+  },
+  "ledger": {
+    "word": "ledger",
+    "definition": "a book or record where business accounts are kept",
+    "variations": [
+      "ledger",
+      "ledgers"
+    ],
+    "emoji": "📚🧾",
+    "id": "gl149"
+  },
+  "liabilities": {
+    "word": "liabilities",
+    "definition": "amounts a business owes to other people or organizations.",
+    "variations": [
+      "liability",
+      "liabilities"
+    ],
+    "emoji": "💸📌",
+    "id": "gl150"
+  },
+  "liability": {
+    "word": "liability",
+    "definition": "an amount a business owes to other people or organizations.",
+    "variations": [
+      "liability",
+      "liabilities"
+    ],
+    "emoji": "💳📉",
+    "id": "gl151"
+  },
+  "liquidity": {
+    "word": "liquidity",
+    "definition": "the ability to have enough cash or easily available money to pay what is owed",
+    "variations": [
+      "liquidity"
+    ],
+    "emoji": "💧💰",
+    "id": "gl152"
+  },
+  "loan": {
+    "word": "loan",
+    "definition": "money borrowed that must be paid back later",
+    "variations": [
+      "loan",
+      "loans"
+    ],
+    "emoji": "💵🏦",
+    "id": "gl153"
+  },
+  "monitor": {
+    "word": "monitor",
+    "definition": "to watch and check something regularly to see how it is going",
+    "variations": [
+      "monitor",
+      "monitors",
+      "monitored",
+      "monitoring"
+    ],
+    "emoji": "👀📊",
+    "id": "gl154"
+  },
+  "motor expenses": {
+    "word": "motor expenses",
+    "definition": "costs related to using and running a vehicle for business.",
+    "variations": [
+      "motor expense",
+      "motor expenses"
+    ],
+    "emoji": "🚗💸",
+    "id": "gl155"
+  },
+  "negative balance": {
+    "word": "negative balance",
+    "definition": "a balance below zero, showing that more money has gone out than is available",
+    "variations": [
+      "negative balance",
+      "negative balances"
+    ],
+    "emoji": "➖⚠️",
+    "id": "gl156"
+  },
+  "net cash flow": {
+    "word": "net cash flow",
+    "definition": "the difference between total cash received and total cash spent",
+    "variations": [
+      "net cash flow"
+    ],
+    "emoji": "📊💵",
+    "id": "gl157"
+  },
+  "non-current asset": {
+    "word": "non-current asset",
+    "definition": "a long-term asset that a business uses for many years, such as machinery or furniture",
+    "variations": [
+      "non-current asset",
+      "non-current assets"
+    ],
+    "emoji": "🏭🪑",
+    "id": "gl158"
+  },
+  "notification": {
+    "word": "notification",
+    "definition": "an official message giving information about something, such as a dishonoured cheque",
+    "variations": [
+      "notification",
+      "notifications"
+    ],
+    "emoji": "🔔📩",
+    "id": "gl159"
+  },
+  "offset": {
+    "word": "offset",
+    "definition": "to cancel the effect of another entry or amount",
+    "variations": [
+      "offset",
+      "offsets",
+      "offsetting"
+    ],
+    "emoji": "↔️🧮",
+    "id": "gl160"
+  },
+  "omission": {
+    "word": "omission",
+    "definition": "an error where a transaction is left out completely from the books",
+    "variations": [
+      "omission",
+      "omissions",
+      "error of omission",
+      "errors of omission"
+    ],
+    "emoji": "🚫📝",
+    "id": "gl161"
+  },
+  "open cheque": {
+    "word": "open cheque",
+    "definition": "a cheque that can be paid in cash or deposited into an account",
+    "variations": [
+      "open cheque",
+      "open cheques"
+    ],
+    "emoji": "📄💵",
+    "id": "gl162"
+  },
+  "opening balance": {
+    "word": "opening balance",
+    "definition": "the amount of money available at the beginning of a period",
+    "variations": [
+      "opening balance",
+      "opening balances"
+    ],
+    "emoji": "🏁💵",
+    "id": "gl163"
+  },
+  "original entry": {
+    "word": "original entry",
+    "definition": "the first recording of a transaction in the books",
+    "variations": [
+      "original entry",
+      "original entries",
+      "error of original entry",
+      "errors of original entry"
+    ],
+    "emoji": "📝1️⃣",
+    "id": "gl164"
+  },
+  "outflow": {
+    "word": "outflow",
+    "definition": "money going out of a business or account",
+    "variations": [
+      "outflow",
+      "outflows"
+    ],
+    "emoji": "⬆️💸",
+    "id": "gl165"
+  },
+  "outstanding cheque": {
+    "word": "outstanding cheque",
+    "definition": "a cheque that has been issued but has not yet been paid by the bank",
+    "variations": [
+      "outstanding cheque",
+      "outstanding cheques"
+    ],
+    "emoji": "🧾⏱️",
+    "id": "gl166"
+  },
+  "overcast": {
+    "word": "overcast",
+    "definition": "a total that is added up too high",
+    "variations": [
+      "overcast",
+      "overcasted",
+      "overcasting"
+    ],
+    "emoji": "⬆️➕",
+    "id": "gl167"
+  },
+  "overcasting": {
+    "word": "overcasting",
+    "definition": "an addition error where the total is more than the correct amount.",
+    "variations": [
+      "overcasting",
+      "overcast",
+      "overcasting error",
+      "overcasting errors"
+    ],
+    "emoji": "➕⬆️",
+    "id": "gl168"
+  },
+  "overdraft": {
+    "word": "overdraft",
+    "definition": "a negative bank balance caused by taking out more money than is available in the account",
+    "variations": [
+      "overdraft",
+      "overdrafts"
+    ],
+    "emoji": "⚠️🏦",
+    "id": "gl169"
+  },
+  "overdrawn balance": {
+    "word": "overdrawn balance",
+    "definition": "a bank balance below zero, showing that money is owed to the bank",
+    "variations": [
+      "overdrawn balance",
+      "overdrawn balances"
+    ],
+    "emoji": "➖🏦",
+    "id": "gl170"
+  },
+  "overspending": {
+    "word": "overspending",
+    "definition": "spending more money than planned or more than is available",
+    "variations": [
+      "overspending"
+    ],
+    "emoji": "💸⚠️",
+    "id": "gl171"
+  },
+  "overstatement": {
+    "word": "overstatement",
+    "definition": "an amount shown as more than it really is.",
+    "variations": [
+      "overstatement",
+      "overstatements",
+      "overstated"
+    ],
+    "emoji": "📈⚠️",
+    "id": "gl172"
+  },
+  "payable": {
+    "word": "payable",
+    "definition": "money the business owes to a supplier or other party.",
+    "variations": [
+      "payable",
+      "payables",
+      "trade payable",
+      "trade payables"
+    ],
+    "emoji": "📄💸",
+    "id": "gl173"
+  },
+  "payee": {
+    "word": "payee",
+    "definition": "the person who is to receive the money on a cheque",
+    "variations": [
+      "payee",
+      "payees"
+    ],
+    "emoji": "🙋💵",
+    "id": "gl174"
+  },
+  "payment": {
+    "word": "payment",
+    "definition": "money that is given to buy something or to settle a debt",
+    "variations": [
+      "payment",
+      "payments"
+    ],
+    "emoji": "💳💸",
+    "id": "gl175"
+  },
+  "petty cash": {
+    "word": "petty cash",
+    "definition": "a small amount of cash kept for minor day-to-day expenses",
+    "variations": [
+      "petty cash"
+    ],
+    "emoji": "🪙💵",
+    "id": "gl176"
+  },
+  "petty cash book": {
+    "word": "petty cash book",
+    "definition": "a cash book used to record small daily payments",
+    "variations": [
+      "petty cash book",
+      "petty cash books"
+    ],
+    "emoji": "📒🪙",
+    "id": "gl177"
+  },
+  "petty cash float": {
+    "word": "petty cash float",
+    "definition": "the fixed amount of petty cash given to start making small payments",
+    "variations": [
+      "petty cash float",
+      "petty cash floats"
+    ],
+    "emoji": "🪙🚰",
+    "id": "gl178"
+  },
+  "petty cash fund": {
+    "word": "petty cash fund",
+    "definition": "the amount of money set aside for making small payments",
+    "variations": [
+      "petty cash fund",
+      "petty cash funds"
+    ],
+    "emoji": "💰🪙",
+    "id": "gl179"
+  },
+  "petty cash period": {
+    "word": "petty cash period",
+    "definition": "the time between receiving petty cash and receiving the next replenishment",
+    "variations": [
+      "petty cash period",
+      "petty cash periods"
+    ],
+    "emoji": "📅🪙",
+    "id": "gl180"
+  },
+  "petty cashier": {
+    "word": "petty cashier",
+    "definition": "the person responsible for making and recording small cash payments",
+    "variations": [
+      "petty cashier",
+      "petty cashiers"
+    ],
+    "emoji": "👤🧾",
+    "id": "gl181"
+  },
+  "petty payment": {
+    "word": "petty payment",
+    "definition": "a small cash payment for minor business expenses",
+    "variations": [
+      "petty payment",
+      "petty payments"
+    ],
+    "emoji": "🪙📤",
+    "id": "gl182"
+  },
+  "post-dated cheque": {
+    "word": "post-dated cheque",
+    "definition": "a cheque written with a future date, so it cannot be cashed until that date.",
+    "variations": [
+      "post-dated cheque",
+      "post-dated cheques"
+    ],
+    "emoji": "📅💳",
+    "id": "gl183"
+  },
+  "posting": {
+    "word": "posting",
+    "definition": "the process of transferring entries from books of original entry to ledger accounts.",
+    "variations": [
+      "posting",
+      "postings",
+      "posted"
+    ],
+    "emoji": "📝📘",
+    "id": "gl184"
+  },
+  "presented": {
+    "word": "presented",
+    "definition": "taken to the bank for payment",
+    "variations": [
+      "presented",
+      "present",
+      "presenting"
+    ],
+    "emoji": "🏦✅",
+    "id": "gl185"
+  },
+  "principle": {
+    "word": "principle",
+    "definition": "an error where a transaction is recorded in the wrong type or class of account",
+    "variations": [
+      "principle",
+      "error of principle",
+      "errors of principle"
+    ],
+    "emoji": "📂⚠️",
+    "id": "gl186"
+  },
+  "prioritise": {
+    "word": "prioritise",
+    "definition": "to decide what is most important and deal with it first",
+    "variations": [
+      "prioritise",
+      "prioritises",
+      "prioritised",
+      "prioritising",
+      "prioritising"
+    ],
+    "emoji": "🥇📋",
+    "id": "gl187"
+  },
+  "profit": {
+    "word": "profit",
+    "definition": "the money left after total expenses are subtracted from total income.",
+    "variations": [
+      "profit",
+      "profits",
+      "profitable"
+    ],
+    "emoji": "💹💰",
+    "id": "gl188"
+  },
+  "purchase": {
+    "word": "purchase",
+    "definition": "the act of buying something",
+    "variations": [
+      "purchase",
+      "purchases"
+    ],
+    "emoji": "🛒💵",
+    "id": "gl189"
+  },
+  "purchase invoice": {
+    "word": "purchase invoice",
+    "definition": "a bill received for goods or services bought.",
+    "variations": [
+      "purchase invoice",
+      "purchase invoices"
+    ],
+    "emoji": "📄🛒",
+    "id": "gl190"
+  },
+  "purchases": {
+    "word": "purchases",
+    "definition": "goods or items bought by a business",
+    "variations": [
+      "purchase",
+      "purchases",
+      "purchased"
+    ],
+    "emoji": "🛒📦",
+    "id": "gl191"
+  },
+  "purchases journal": {
+    "word": "purchases journal",
+    "definition": "a book used to record goods bought on credit.",
+    "variations": [
+      "purchases journal",
+      "purchase journal",
+      "purchases journals",
+      "purchase journals"
+    ],
+    "emoji": "📦📗",
+    "id": "gl192"
+  },
+  "purchases ledger": {
+    "word": "purchases ledger",
+    "definition": "the ledger that contains accounts of suppliers from whom the business buys on credit",
+    "variations": [
+      "purchases ledger",
+      "purchase ledger",
+      "purchases ledgers",
+      "PL"
+    ],
+    "emoji": "🛒📗",
+    "id": "gl193"
+  },
+  "purchases return journal": {
+    "word": "purchases return journal",
+    "definition": "a book used to record goods returned to suppliers.",
+    "variations": [
+      "purchases return journal",
+      "purchase return journal",
+      "purchases return journals",
+      "purchase return journals"
+    ],
+    "emoji": "↩️📦",
+    "id": "gl194"
+  },
+  "quantity discount": {
+    "word": "quantity discount",
+    "definition": "a discount given when a customer buys a large amount of goods.",
+    "variations": [
+      "quantity discount",
+      "quantity discounts"
+    ],
+    "emoji": "📦➖",
+    "id": "gl195"
+  },
+  "receipt": {
+    "word": "receipt",
+    "definition": "money that is received by a person or business",
+    "variations": [
+      "receipt",
+      "receipts"
+    ],
+    "emoji": "📥💰",
+    "id": "gl196"
+  },
+  "receivable": {
+    "word": "receivable",
+    "definition": "money owed to the business by a customer.",
+    "variations": [
+      "receivable",
+      "receivables",
+      "trade receivable",
+      "trade receivables"
+    ],
+    "emoji": "🧾💰",
+    "id": "gl197"
+  },
+  "reconciliation": {
+    "word": "reconciliation",
+    "definition": "the process of comparing two records to make sure they agree and to explain any differences",
+    "variations": [
+      "reconciliation",
+      "reconciliations",
+      "reconcile",
+      "reconciling"
+    ],
+    "emoji": "🧾⚖️",
+    "id": "gl198"
+  },
+  "reconciling": {
+    "word": "reconciling",
+    "definition": "comparing two records and explaining any differences so they agree.",
+    "variations": [
+      "reconcile",
+      "reconciles",
+      "reconciling",
+      "reconciled",
+      "reconciliation"
+    ],
+    "emoji": "⚖️🔍",
+    "id": "gl199"
+  },
+  "reconciling item": {
+    "word": "reconciling item",
+    "definition": "an item that explains why the cash book balance and bank statement balance are different, usually because of timing",
+    "variations": [
+      "reconciling item",
+      "reconciling items"
+    ],
+    "emoji": "🧩📋",
+    "id": "gl200"
+  },
+  "reconciling items": {
+    "word": "reconciling items",
+    "definition": "items that explain the difference between the cash book and the bank statement",
+    "variations": [
+      "reconciling item",
+      "reconciling items"
+    ],
+    "emoji": "🔍🧩",
+    "id": "gl201"
+  },
+  "record-keeping": {
+    "word": "record-keeping",
+    "definition": "the act of keeping clear and accurate written information about activities or transactions",
+    "variations": [
+      "record-keeping"
+    ],
+    "emoji": "🗂️✍️",
+    "id": "gl202"
+  },
+  "reimbursement": {
+    "word": "reimbursement",
+    "definition": "money paid back to replace what was spent",
+    "variations": [
+      "reimbursement",
+      "reimbursements",
+      "reimburse",
+      "reimbursed",
+      "reimbursing"
+    ],
+    "emoji": "↩️💰",
+    "id": "gl203"
+  },
+  "rent": {
+    "word": "rent",
+    "definition": "money paid for the use of a building, room, or land.",
+    "variations": [
+      "rent",
+      "rents",
+      "rented"
+    ],
+    "emoji": "🏠💵",
+    "id": "gl204"
+  },
+  "replenishment": {
+    "word": "replenishment",
+    "definition": "the act of replacing money that has been spent so the original amount is restored",
+    "variations": [
+      "replenishment",
+      "replenishments",
+      "replenish",
+      "replenished",
+      "replenishing"
+    ],
+    "emoji": "🔄💵",
+    "id": "gl205"
+  },
+  "resource": {
+    "word": "resource",
+    "definition": "something useful, such as money, time, or materials, that can be used to do work",
+    "variations": [
+      "resource",
+      "resources"
+    ],
+    "emoji": "🧰💼",
+    "id": "gl206"
+  },
+  "resource allocation": {
+    "word": "resource allocation",
+    "definition": "the process of deciding how money, time, or materials will be used",
+    "variations": [
+      "resource allocation",
+      "resource allocations"
+    ],
+    "emoji": "📦🧠",
+    "id": "gl207"
+  },
+  "revenue": {
+    "word": "revenue",
+    "definition": "money earned by a business from its activities, especially from sales",
+    "variations": [
+      "revenue",
+      "revenues"
+    ],
+    "emoji": "📈💰",
+    "id": "gl208"
+  },
+  "sale": {
+    "word": "sale",
+    "definition": "the act of selling something",
+    "variations": [
+      "sale",
+      "sales"
+    ],
+    "emoji": "🏷️💰",
+    "id": "gl209"
+  },
+  "sales": {
+    "word": "sales",
+    "definition": "goods or services sold by a business for money",
+    "variations": [
+      "sale",
+      "sales"
+    ],
+    "emoji": "🛍️💵",
+    "id": "gl210"
+  },
+  "sales journal": {
+    "word": "sales journal",
+    "definition": "a book used to record goods sold on credit.",
+    "variations": [
+      "sales journal",
+      "sales journals"
+    ],
+    "emoji": "🛒📗",
+    "id": "gl211"
+  },
+  "sales ledger": {
+    "word": "sales ledger",
+    "definition": "the ledger that contains accounts of customers who buy on credit",
+    "variations": [
+      "sales ledger",
+      "sales ledgers",
+      "SL"
+    ],
+    "emoji": "🛍️📘",
+    "id": "gl212"
+  },
+  "sales return journal": {
+    "word": "sales return journal",
+    "definition": "a book used to record goods returned by customers.",
+    "variations": [
+      "sales return journal",
+      "sales return journals"
+    ],
+    "emoji": "↩️🛒",
+    "id": "gl213"
+  },
+  "sales returns": {
+    "word": "sales returns",
+    "definition": "goods that customers return after buying them",
+    "variations": [
+      "sales return",
+      "sales returns"
+    ],
+    "emoji": "↩️📦",
+    "id": "gl214"
+  },
+  "services": {
+    "word": "services",
+    "definition": "work done for someone instead of selling a physical product",
+    "variations": [
+      "service",
+      "services"
+    ],
+    "emoji": "🛠️🤝",
+    "id": "gl215"
+  },
+  "single-column cash book": {
+    "word": "single-column cash book",
+    "definition": "a cash book with one money column on each side for recording cash only",
+    "variations": [
+      "single-column cash book",
+      "single-column cash books"
+    ],
+    "emoji": "📒1️⃣",
+    "id": "gl216"
+  },
+  "source document": {
+    "word": "source document",
+    "definition": "an original document used as evidence to record a transaction.",
+    "variations": [
+      "source document",
+      "source documents"
+    ],
+    "emoji": "📄🔍",
+    "id": "gl217"
+  },
+  "stale cheque": {
+    "word": "stale cheque",
+    "definition": "a cheque presented too late, usually after many months, so the bank may refuse to pay it",
+    "variations": [
+      "stale cheque",
+      "stale cheques"
+    ],
+    "emoji": "⌛📄",
+    "id": "gl218"
+  },
+  "standing order": {
+    "word": "standing order",
+    "definition": "an instruction to a bank to pay a fixed amount regularly to someone.",
+    "variations": [
+      "standing order",
+      "standing orders"
+    ],
+    "emoji": "🏦📆",
+    "id": "gl219"
+  },
+  "statement of financial position": {
+    "word": "statement of financial position",
+    "definition": "a financial statement that shows what a business owns, owes, and the owner’s interest at a certain date",
+    "variations": [
+      "statement of financial position",
+      "statements of financial position"
+    ],
+    "emoji": "📄⚖️",
+    "id": "gl220"
+  },
+  "stationery": {
+    "word": "stationery",
+    "definition": "office materials such as paper, pens, notebooks, and envelopes",
+    "variations": [
+      "stationery",
+      "stationeries"
+    ],
+    "emoji": "🖊️📘",
+    "id": "gl221"
+  },
+  "subsidiary ledger": {
+    "word": "subsidiary ledger",
+    "definition": "a ledger that contains detailed individual accounts, such as customers or suppliers.",
+    "variations": [
+      "subsidiary ledger",
+      "subsidiary ledgers"
+    ],
+    "emoji": "📖🗂️",
+    "id": "gl222"
+  },
+  "supplier": {
+    "word": "supplier",
+    "definition": "a person or business that provides goods or services to another business",
+    "variations": [
+      "supplier",
+      "suppliers"
+    ],
+    "emoji": "🚚📦",
+    "id": "gl223"
+  },
+  "surplus": {
+    "word": "surplus",
+    "definition": "A surplus happens when income is more than spending during a period of time.",
+    "variations": [
+      "surplus",
+      "surpluses"
+    ],
+    "emoji": "📈💰",
+    "id": "gl224"
+  },
+  "suspense account": {
+    "word": "suspense account",
+    "definition": "a temporary account used when a difference or unclear entry cannot yet be explained",
+    "variations": [
+      "suspense account",
+      "suspense accounts"
+    ],
+    "emoji": "⏳📘",
+    "id": "gl225"
+  },
+  "taxes": {
+    "word": "taxes",
+    "definition": "Taxes are required payments made by people and businesses to the government.",
+    "variations": [
+      "tax",
+      "taxes"
+    ],
+    "emoji": "🏛️💵",
+    "id": "gl226"
+  },
+  "three-column cash book": {
+    "word": "three-column cash book",
+    "definition": "a cash book with three money columns, usually for cash, bank, and discount",
+    "variations": [
+      "three-column cash book",
+      "three-column cash books"
+    ],
+    "emoji": "📒3️⃣",
+    "id": "gl227"
+  },
+  "time-bound": {
+    "word": "time-bound",
+    "definition": "limited to a set period of time",
+    "variations": [
+      "time-bound"
+    ],
+    "emoji": "⏰📅",
+    "id": "gl228"
+  },
+  "trade discount": {
+    "word": "trade discount",
+    "definition": "a reduction in listed price usually given by a seller, often not recorded in the accounts.",
+    "variations": [
+      "trade discount",
+      "trade discounts"
+    ],
+    "emoji": "🛍️📉",
+    "id": "gl229"
+  },
+  "trade payable": {
+    "word": "trade payable",
+    "definition": "money the business owes to suppliers for goods or services bought on credit.",
+    "variations": [
+      "trade payable",
+      "trade payables"
+    ],
+    "emoji": "📤💰",
+    "id": "gl230"
+  },
+  "trade payables": {
+    "word": "trade payables",
+    "definition": "amounts the business owes to suppliers for goods or services bought on credit",
+    "variations": [
+      "trade payable",
+      "trade payables"
+    ],
+    "emoji": "💸📤",
+    "id": "gl231"
+  },
+  "trade receivable": {
+    "word": "trade receivable",
+    "definition": "money owed to the business by customers who bought goods or services on credit.",
+    "variations": [
+      "trade receivable",
+      "trade receivables"
+    ],
+    "emoji": "💳📥",
+    "id": "gl232"
+  },
+  "trade receivables": {
+    "word": "trade receivables",
+    "definition": "amounts owed to the business by customers who bought on credit",
+    "variations": [
+      "trade receivable",
+      "trade receivables"
+    ],
+    "emoji": "💰📥",
+    "id": "gl233"
+  },
+  "transaction": {
+    "word": "transaction",
+    "definition": "an action in which money is paid, received, or transferred",
+    "variations": [
+      "transaction",
+      "transactions"
+    ],
+    "emoji": "💸🔄",
+    "id": "gl234"
+  },
+  "transfer": {
+    "word": "transfer",
+    "definition": "the movement of money from one account or person to another",
+    "variations": [
+      "transfer",
+      "transfers",
+      "transferred",
+      "transferring"
+    ],
+    "emoji": "🔄💸",
+    "id": "gl235"
+  },
+  "transposition": {
+    "word": "transposition",
+    "definition": "a mistake caused by reversing the order of digits, such as writing 65 instead of 56",
+    "variations": [
+      "transposition",
+      "transpositions",
+      "transposing"
+    ],
+    "emoji": "🔢↔️",
+    "id": "gl236"
+  },
+  "transposition error": {
+    "word": "transposition error",
+    "definition": "an error made when digits are written in the wrong order, such as writing 64 instead of 46.",
+    "variations": [
+      "transposition error",
+      "transposition errors"
+    ],
+    "emoji": "🔄✍️",
+    "id": "gl237"
+  },
+  "travelling expenses": {
+    "word": "travelling expenses",
+    "definition": "costs paid for travel, such as bus fare, taxi fare, or other transport for work",
+    "variations": [
+      "travelling expense",
+      "travelling expenses",
+      "traveling expense",
+      "traveling expenses"
+    ],
+    "emoji": "🚌🚕",
+    "id": "gl238"
+  },
+  "trial balance": {
+    "word": "trial balance",
+    "definition": "a list of account balances prepared to check whether the debit and credit totals are equal",
+    "variations": [
+      "trial balance",
+      "trial balances"
+    ],
+    "emoji": "⚖️📋",
+    "id": "gl239"
+  },
+  "two-column cash book": {
+    "word": "two-column cash book",
+    "definition": "a cash book with two money columns, usually for cash and discount",
+    "variations": [
+      "two-column cash book",
+      "two-column cash books"
+    ],
+    "emoji": "📒2️⃣",
+    "id": "gl240"
+  },
+  "unadjusted cash book balance": {
+    "word": "unadjusted cash book balance",
+    "definition": "the cash book balance before missing items and errors are corrected",
+    "variations": [
+      "unadjusted cash book balance",
+      "unadjusted cash book balances"
+    ],
+    "emoji": "📘⏳",
+    "id": "gl241"
+  },
+  "uncleared deposit": {
+    "word": "uncleared deposit",
+    "definition": "money deposited into the bank that has not yet been fully processed by the bank",
+    "variations": [
+      "uncleared deposit",
+      "uncleared deposits"
+    ],
+    "emoji": "💰⌛",
+    "id": "gl242"
+  },
+  "uncredited cheque": {
+    "word": "uncredited cheque",
+    "definition": "a cheque paid into the bank that has not yet been added to the account by the bank.",
+    "variations": [
+      "uncredited cheque",
+      "uncredited cheques"
+    ],
+    "emoji": "⏳💳",
+    "id": "gl243"
+  },
+  "undercast": {
+    "word": "undercast",
+    "definition": "a total that is added up too low",
+    "variations": [
+      "undercast",
+      "undercasted",
+      "undercasting"
+    ],
+    "emoji": "⬇️➕",
+    "id": "gl244"
+  },
+  "undercasting": {
+    "word": "undercasting",
+    "definition": "an addition error where the total is less than the correct amount.",
+    "variations": [
+      "undercasting",
+      "undercast",
+      "undercasting error",
+      "undercasting errors"
+    ],
+    "emoji": "➕⬇️",
+    "id": "gl245"
+  },
+  "unforeseen expenses": {
+    "word": "unforeseen expenses",
+    "definition": "costs that happen unexpectedly and were not planned for",
+    "variations": [
+      "unforeseen expense",
+      "unforeseen expenses"
+    ],
+    "emoji": "😮💸",
+    "id": "gl246"
+  },
+  "unilateral error": {
+    "word": "unilateral error",
+    "definition": "an error that affects only one side or one part of the double entry.",
+    "variations": [
+      "unilateral error",
+      "unilateral errors"
+    ],
+    "emoji": "1️⃣❌",
+    "id": "gl247"
+  },
+  "unpresented cheque": {
+    "word": "unpresented cheque",
+    "definition": "a cheque issued by the business that has not yet been presented to the bank for payment.",
+    "variations": [
+      "unpresented cheque",
+      "unpresented cheques"
+    ],
+    "emoji": "🧾⌛",
+    "id": "gl248"
+  },
+  "value-based budgeting": {
+    "word": "value-based budgeting",
+    "definition": "a way of planning money by giving more funds to the most important goals and priorities",
+    "variations": [
+      "value-based budgeting"
+    ],
+    "emoji": "🎯💵",
+    "id": "gl249"
+  },
+  "vendor": {
+    "word": "vendor",
+    "definition": "A vendor is a person or business that sells goods or services.",
+    "variations": [
+      "vendor",
+      "vendors"
+    ],
+    "emoji": "🏪🛍️",
+    "id": "gl250"
+  },
+  "voucher": {
+    "word": "voucher",
+    "definition": "a document used as proof that a payment has been made",
+    "variations": [
+      "voucher",
+      "vouchers"
+    ],
+    "emoji": "🧾✅",
+    "id": "gl251"
+  },
+  "vouching": {
+    "word": "vouching",
+    "definition": "checking accounting entries against source documents to confirm they are correct",
+    "variations": [
+      "vouching",
+      "vouch"
+    ],
+    "emoji": "🔍📄",
+    "id": "gl252"
+  },
+  "wages": {
+    "word": "wages",
+    "definition": "money paid to workers for their work.",
+    "variations": [
+      "wage",
+      "wages"
+    ],
+    "emoji": "👷💰",
+    "id": "gl253"
+  },
+  "withdraw": {
+    "word": "withdraw",
+    "definition": "to take money out of a bank account.",
+    "variations": [
+      "withdraw",
+      "withdraws",
+      "withdrew",
+      "withdrawn",
+      "withdrawing"
+    ],
+    "emoji": "🏦⬆️💵",
+    "id": "gl254"
+  },
+  "withdrawal": {
+    "word": "withdrawal",
+    "definition": "money taken out of a bank account",
+    "variations": [
+      "withdrawal",
+      "withdrawals",
+      "withdraw"
+    ],
+    "emoji": "🏧💵",
+    "id": "gl255"
+  },
+  "zero-based budgeting": {
+    "word": "zero-based budgeting",
+    "definition": "a budgeting method where every expense must be explained and approved starting from zero",
+    "variations": [
+      "zero-based budgeting"
+    ],
+    "emoji": "0️⃣📊",
+    "id": "gl256"
+  }
+}

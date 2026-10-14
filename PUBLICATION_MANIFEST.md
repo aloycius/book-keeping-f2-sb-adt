@@ -5,10 +5,13 @@
 - Owner: `aloycius`
 - Repository: `book-keeping-f2-sb-adt`
 - Visibility: public
-- Purpose: ADT Studio conversion publication for `Book-keeping F2 SB`
+- Purpose: ADT Studio static web publication for `book-keeping-f2-sb`
 
-## Included Initially
+## Included
 
+- Static HTML entry point and page files
+- ADT runtime assets, styles, fonts, images, and content catalogs
+- `imsmanifest.xml`
 - `README.md`
 - `PUBLICATION_MANIFEST.md`
 - `.gitignore`
@@ -21,14 +24,11 @@
 - LLM prompts, responses, logs, and cost records
 - API keys, tokens, `.env` files, and credentials
 - Debug screenshots and temporary audit renders
+- Source maps and local agent instructions
 - Absolute local paths from the conversion machine
 
-## Next Publication Gate
+## Verification
 
-Before publishing converted book content, verify:
-
-- The ADT output is semantic HTML, not page screenshots
-- Every requested page has passed source-vs-output visual review
-- Runtime assets load from a clean static server
-- The publication tree contains no secrets, private paths, databases, or source PDFs
-- Rights and license text are confirmed
+- ADT pipeline completed for 152 source pages.
+- Static bundle copied from the ADT package directory with `AGENTS.md` and source maps excluded.
+- Publication tree should be served from a static web server rooted at the repository root.

@@ -1,0 +1,737 @@
+[
+  {
+    "section_id": "pg001_sec001",
+    "href": "index.html",
+    "title": "Book-keeping",
+    "chapter_id": "pg001_n0003",
+    "level": 1
+  },
+  {
+    "section_id": "pg003_sec001",
+    "href": "pg003_sec001.html",
+    "title": "Table of Contents",
+    "chapter_id": "pg003_n0003",
+    "level": 1
+  },
+  {
+    "section_id": "pg004_sec001",
+    "href": "pg004_sec001.html",
+    "title": "Chapter Four",
+    "chapter_id": "pg004_n0004",
+    "level": 1
+  },
+  {
+    "section_id": "pg005_sec001",
+    "href": "pg005_sec001.html",
+    "title": "List of Figures",
+    "chapter_id": "pg005_n0003",
+    "level": 1
+  },
+  {
+    "section_id": "pg006_sec001",
+    "href": "pg006_sec001.html",
+    "title": "Acronyms and Abbreviations",
+    "chapter_id": "pg006_n0003",
+    "level": 1
+  },
+  {
+    "section_id": "pg007_sec001",
+    "href": "pg007_sec001.html",
+    "title": "Acknowledgements",
+    "chapter_id": "pg007_n0004",
+    "level": 1
+  },
+  {
+    "section_id": "pg008_sec001",
+    "href": "pg008_sec001.html",
+    "title": "Preface",
+    "chapter_id": "pg008_n0004",
+    "level": 1
+  },
+  {
+    "section_id": "pg009_sec001",
+    "href": "pg009_sec001.html",
+    "title": "Chapter One",
+    "chapter_id": "pg009_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg010_sec001",
+    "href": "pg010_sec001.html",
+    "title": "Cash book and its purpose",
+    "chapter_id": "pg010_n0021",
+    "level": 2
+  },
+  {
+    "section_id": "pg011_sec001",
+    "href": "pg011_sec001.html",
+    "title": "Recording cash and banking transactions",
+    "chapter_id": "pg011_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg012_sec001",
+    "href": "pg012_sec001.html",
+    "title": "Required:",
+    "chapter_id": "pg012_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg013_sec001",
+    "href": "pg013_sec001.html",
+    "title": "Bank account",
+    "chapter_id": "pg013_n0008",
+    "level": 3
+  },
+  {
+    "section_id": "pg016_sec001",
+    "href": "pg016_sec001.html",
+    "title": "Balancing the bank account",
+    "chapter_id": "pg016_n0007",
+    "level": 2
+  },
+  {
+    "section_id": "pg018_sec001",
+    "href": "pg018_sec001.html",
+    "title": "Dr",
+    "chapter_id": "pg018_n0005",
+    "level": 3
+  },
+  {
+    "section_id": "pg020_sec001",
+    "href": "pg020_sec001.html",
+    "title": "Solution:",
+    "chapter_id": "pg020_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg022_sec001",
+    "href": "pg022_sec001.html",
+    "title": "Contra entries in the two-column cash book",
+    "chapter_id": "pg022_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg024_sec001",
+    "href": "pg024_sec001.html",
+    "title": "Mercy",
+    "chapter_id": "pg024_n0006",
+    "level": 3
+  },
+  {
+    "section_id": "pg026_sec001",
+    "href": "pg026_sec001.html",
+    "title": "Sales account",
+    "chapter_id": "pg026_n0008",
+    "level": 3
+  },
+  {
+    "section_id": "pg028_sec001",
+    "href": "pg028_sec001.html",
+    "title": "Exercise 1.2",
+    "chapter_id": "pg028_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg030_sec001",
+    "href": "pg030_sec001.html",
+    "title": "Discounts, cash discount and credit terms",
+    "chapter_id": "pg030_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg032_sec001",
+    "href": "pg032_sec001.html",
+    "title": "Example 1.6",
+    "chapter_id": "pg032_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg034_sec001",
+    "href": "pg034_sec001.html",
+    "title": "Solution",
+    "chapter_id": "pg034_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg035_sec001",
+    "href": "pg035_sec001.html",
+    "title": "Completing double entry for items recorded in the three-column cash book",
+    "chapter_id": "pg035_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg036_sec001",
+    "href": "pg036_sec001.html",
+    "title": "Ukenyenge account",
+    "chapter_id": "pg036_n0007",
+    "level": 3
+  },
+  {
+    "section_id": "pg038_sec001",
+    "href": "pg038_sec001.html",
+    "title": "Usefulness of petty cash book and the imprest system",
+    "chapter_id": "pg038_n0013",
+    "level": 2
+  },
+  {
+    "section_id": "pg039_sec001",
+    "href": "pg039_sec001.html",
+    "title": "Activity 1.3",
+    "chapter_id": "pg039_n0020",
+    "level": 3
+  },
+  {
+    "section_id": "pg040_sec001",
+    "href": "pg040_sec001.html",
+    "title": "Recording transactions and balancing the petty cash book",
+    "chapter_id": "pg040_n0006",
+    "level": 2
+  },
+  {
+    "section_id": "pg042_sec001",
+    "href": "pg042_sec001.html",
+    "title": "Example 1.9",
+    "chapter_id": "pg042_n0006",
+    "level": 3
+  },
+  {
+    "section_id": "pg044_sec001",
+    "href": "pg044_sec001.html",
+    "title": "Posting transactions from the petty cash book to ledgers",
+    "chapter_id": "pg044_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg046_sec001",
+    "href": "pg046_sec001.html",
+    "title": "Chapter summary",
+    "chapter_id": "pg046_n0007",
+    "level": 2
+  },
+  {
+    "section_id": "pg048_sec001",
+    "href": "pg048_sec001.html",
+    "title": "Column A",
+    "chapter_id": "pg048_n0005",
+    "level": 3
+  },
+  {
+    "section_id": "pg054_sec001",
+    "href": "pg054_sec001.html",
+    "title": "Chapter Two",
+    "chapter_id": "pg054_n0003",
+    "level": 1
+  },
+  {
+    "section_id": "pg055_sec001",
+    "href": "pg055_sec001.html",
+    "title": "Correction of Book-keeping errors and the Trial balance",
+    "chapter_id": "pg055_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg056_sec001",
+    "href": "pg056_sec001.html",
+    "title": "Book-keeping errors that do not affect the trial balance agreement",
+    "chapter_id": "pg056_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg057_sec001",
+    "href": "pg057_sec001.html",
+    "title": "3. Error of principle",
+    "chapter_id": "pg057_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg060_sec001",
+    "href": "pg060_sec001.html",
+    "title": "1. Single entry made for a transaction (omission in one account)",
+    "chapter_id": "pg060_n0009",
+    "level": 3
+  },
+  {
+    "section_id": "pg062_sec001",
+    "href": "pg062_sec001.html",
+    "title": "Detection of book-keeping errors",
+    "chapter_id": "pg062_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg063_sec001",
+    "href": "pg063_sec001.html",
+    "title": "Example 2.1",
+    "chapter_id": "pg063_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg064_sec001",
+    "href": "pg064_sec001.html",
+    "title": "Correcting an error of principle",
+    "chapter_id": "pg064_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg066_sec001",
+    "href": "pg066_sec001.html",
+    "title": "Journal Entry",
+    "chapter_id": "pg066_n0006",
+    "level": 3
+  },
+  {
+    "section_id": "pg068_sec001",
+    "href": "pg068_sec001.html",
+    "title": "Solution",
+    "chapter_id": "pg068_n0009",
+    "level": 3
+  },
+  {
+    "section_id": "pg069_sec001",
+    "href": "pg069_sec001.html",
+    "title": "Exercise 2.3",
+    "chapter_id": "pg069_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg070_sec001",
+    "href": "pg070_sec001.html",
+    "title": "Correction of errors using the suspense account",
+    "chapter_id": "pg070_n0022",
+    "level": 2
+  },
+  {
+    "section_id": "pg072_sec001",
+    "href": "pg072_sec001.html",
+    "title": "Suspense account",
+    "chapter_id": "pg072_n0007",
+    "level": 3
+  },
+  {
+    "section_id": "pg074_sec001",
+    "href": "pg074_sec001.html",
+    "title": "Suspense account",
+    "chapter_id": "pg074_n0026",
+    "level": 3
+  },
+  {
+    "section_id": "pg076_sec001",
+    "href": "pg076_sec001.html",
+    "title": "Journal Entries",
+    "chapter_id": "pg076_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg077_sec001",
+    "href": "pg077_sec001.html",
+    "title": "Exercise 2.5",
+    "chapter_id": "pg077_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg078_sec001",
+    "href": "pg078_sec001.html",
+    "title": "Example 2.14",
+    "chapter_id": "pg078_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg080_sec001",
+    "href": "pg080_sec001.html",
+    "title": "Journal entries",
+    "chapter_id": "pg080_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg082_sec001",
+    "href": "pg082_sec001.html",
+    "title": "Example 2.15",
+    "chapter_id": "pg082_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg084_sec001",
+    "href": "pg084_sec001.html",
+    "title": "Ledger postings",
+    "chapter_id": "pg084_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg086_sec001",
+    "href": "pg086_sec001.html",
+    "title": "Janerosa trial balance as at 31st December 2024",
+    "chapter_id": "pg086_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg087_sec001",
+    "href": "pg087_sec001.html",
+    "title": "Journal entries",
+    "chapter_id": "pg087_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg088_sec001",
+    "href": "pg088_sec001.html",
+    "title": "Trade payables account",
+    "chapter_id": "pg088_n0007",
+    "level": 3
+  },
+  {
+    "section_id": "pg090_sec001",
+    "href": "pg090_sec001.html",
+    "title": "Chapter summary",
+    "chapter_id": "pg090_n0004",
+    "level": 2
+  },
+  {
+    "section_id": "pg095_sec001",
+    "href": "pg095_sec001.html",
+    "title": "Kipanga",
+    "chapter_id": "pg095_n0006",
+    "level": 3
+  },
+  {
+    "section_id": "pg096_sec001",
+    "href": "pg096_sec001.html",
+    "title": "Abuu Co. Ltd trial balance as at 31st December 2024",
+    "chapter_id": "pg096_n0006",
+    "level": 3
+  },
+  {
+    "section_id": "pg097_sec001",
+    "href": "pg097_sec001.html",
+    "title": "Chapter Three",
+    "chapter_id": "pg097_n0005",
+    "level": 1
+  },
+  {
+    "section_id": "pg098_sec001",
+    "href": "pg098_sec001.html",
+    "title": "Importance of bank reconciliation statement",
+    "chapter_id": "pg098_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg099_sec001",
+    "href": "pg099_sec001.html",
+    "title": "The format of a bank statement:",
+    "chapter_id": "pg099_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg100_sec001",
+    "href": "pg100_sec001.html",
+    "title": "Required:",
+    "chapter_id": "pg100_n0006",
+    "level": 3
+  },
+  {
+    "section_id": "pg101_sec001",
+    "href": "pg101_sec001.html",
+    "title": "Example 3.1",
+    "chapter_id": "pg101_n0020",
+    "level": 3
+  },
+  {
+    "section_id": "pg102_sec001",
+    "href": "pg102_sec001.html",
+    "title": "Dr",
+    "chapter_id": "pg102_n0005",
+    "level": 3
+  },
+  {
+    "section_id": "pg103_sec001",
+    "href": "pg103_sec001.html",
+    "title": "Example 3.2",
+    "chapter_id": "pg103_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg104_sec001",
+    "href": "pg104_sec001.html",
+    "title": "Activity 3.2",
+    "chapter_id": "pg104_n0068",
+    "level": 3
+  },
+  {
+    "section_id": "pg105_sec001",
+    "href": "pg105_sec001.html",
+    "title": "Uncredited cheques",
+    "chapter_id": "pg105_n0006",
+    "level": 2
+  },
+  {
+    "section_id": "pg106_sec001",
+    "href": "pg106_sec001.html",
+    "title": "Bank charges",
+    "chapter_id": "pg106_n0005",
+    "level": 2
+  },
+  {
+    "section_id": "pg107_sec001",
+    "href": "pg107_sec001.html",
+    "title": "Reconciling bank account with cash book balances",
+    "chapter_id": "pg107_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg108_sec001",
+    "href": "pg108_sec001.html",
+    "title": "Exercise 3.3",
+    "chapter_id": "pg108_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg110_sec001",
+    "href": "pg110_sec001.html",
+    "title": "Bank reconciliation statement as at...",
+    "chapter_id": "pg110_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg111_sec001",
+    "href": "pg111_sec001.html",
+    "title": "Bank reconciliation statement as at……",
+    "chapter_id": "pg111_n0007",
+    "level": 3
+  },
+  {
+    "section_id": "pg112_sec001",
+    "href": "pg112_sec001.html",
+    "title": "Bank statement for December 2023",
+    "chapter_id": "pg112_n0006",
+    "level": 3
+  },
+  {
+    "section_id": "pg113_sec001",
+    "href": "pg113_sec001.html",
+    "title": "Starting with unadjusted cash book balance",
+    "chapter_id": "pg113_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg114_sec001",
+    "href": "pg114_sec001.html",
+    "title": "Starting with the bank statement balance",
+    "chapter_id": "pg114_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg116_sec001",
+    "href": "pg116_sec001.html",
+    "title": "Example 3.3",
+    "chapter_id": "pg116_n0009",
+    "level": 3
+  },
+  {
+    "section_id": "pg118_sec001",
+    "href": "pg118_sec001.html",
+    "title": "Adjusting the cash book and unadjusted cash book",
+    "chapter_id": "pg118_n0006",
+    "level": 2
+  },
+  {
+    "section_id": "pg119_sec001",
+    "href": "pg119_sec001.html",
+    "title": "Bank reconciliation statement as at 31st December 2023",
+    "chapter_id": "pg119_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg120_sec001",
+    "href": "pg120_sec001.html",
+    "title": "Starting with unadjusted cash book balance",
+    "chapter_id": "pg120_n0012",
+    "level": 3
+  },
+  {
+    "section_id": "pg122_sec001",
+    "href": "pg122_sec001.html",
+    "title": "Adjusted Cash book",
+    "chapter_id": "pg122_n0018",
+    "level": 3
+  },
+  {
+    "section_id": "pg123_sec001",
+    "href": "pg123_sec001.html",
+    "title": "Reconciliation without reversing the reconciling items",
+    "chapter_id": "pg123_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg124_sec001",
+    "href": "pg124_sec001.html",
+    "title": "Starting with overdraft as per bank statement",
+    "chapter_id": "pg124_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg125_sec001",
+    "href": "pg125_sec001.html",
+    "title": "Bank reconciliation statement as at……………..",
+    "chapter_id": "pg125_n0005",
+    "level": 3
+  },
+  {
+    "section_id": "pg126_sec001",
+    "href": "pg126_sec001.html",
+    "title": "Bank reconciliation statement as at….",
+    "chapter_id": "pg126_n0005",
+    "level": 3
+  },
+  {
+    "section_id": "pg127_sec001",
+    "href": "pg127_sec001.html",
+    "title": "Starting with the overdraft as per cash book",
+    "chapter_id": "pg127_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg128_sec001",
+    "href": "pg128_sec001.html",
+    "title": "Starting with overdraft as per bank statement",
+    "chapter_id": "pg128_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg129_sec001",
+    "href": "pg129_sec001.html",
+    "title": "Reversing the reconciling items",
+    "chapter_id": "pg129_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg130_sec001",
+    "href": "pg130_sec001.html",
+    "title": "Starting with overdraft as per bank statement",
+    "chapter_id": "pg130_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg131_sec001",
+    "href": "pg131_sec001.html",
+    "title": "Exercise 3.7",
+    "chapter_id": "pg131_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg132_sec001",
+    "href": "pg132_sec001.html",
+    "title": "Chapter summary",
+    "chapter_id": "pg132_n0004",
+    "level": 2
+  },
+  {
+    "section_id": "pg134_sec001",
+    "href": "pg134_sec001.html",
+    "title": "Required:",
+    "chapter_id": "pg134_n0017",
+    "level": 3
+  },
+  {
+    "section_id": "pg136_sec001",
+    "href": "pg136_sec001.html",
+    "title": "Cash Book",
+    "chapter_id": "pg136_n0009",
+    "level": 3
+  },
+  {
+    "section_id": "pg138_sec001",
+    "href": "pg138_sec001.html",
+    "title": "Chapter Four",
+    "chapter_id": "pg138_n0003",
+    "level": 1
+  },
+  {
+    "section_id": "pg139_sec001",
+    "href": "pg139_sec001.html",
+    "title": "Importance of budget",
+    "chapter_id": "pg139_n0008",
+    "level": 2
+  },
+  {
+    "section_id": "pg140_sec001",
+    "href": "pg140_sec001.html",
+    "title": "Activity 4.1",
+    "chapter_id": "pg140_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg141_sec001",
+    "href": "pg141_sec001.html",
+    "title": "Features of a good budget",
+    "chapter_id": "pg141_n0016",
+    "level": 2
+  },
+  {
+    "section_id": "pg142_sec001",
+    "href": "pg142_sec001.html",
+    "title": "Activity 4.2",
+    "chapter_id": "pg142_n0016",
+    "level": 3
+  },
+  {
+    "section_id": "pg143_sec001",
+    "href": "pg143_sec001.html",
+    "title": "(ii) Estimate expected cash expenditures.",
+    "chapter_id": "pg143_n0006",
+    "level": 3
+  },
+  {
+    "section_id": "pg144_sec001",
+    "href": "pg144_sec001.html",
+    "title": "A format of simple cash budget",
+    "chapter_id": "pg144_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg145_sec001",
+    "href": "pg145_sec001.html",
+    "title": "Making adjustments of cash budget",
+    "chapter_id": "pg145_n0011",
+    "level": 2
+  },
+  {
+    "section_id": "pg146_sec001",
+    "href": "pg146_sec001.html",
+    "title": "Example 4.1",
+    "chapter_id": "pg146_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg147_sec001",
+    "href": "pg147_sec001.html",
+    "title": "Solution:",
+    "chapter_id": "pg147_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg148_sec001",
+    "href": "pg148_sec001.html",
+    "title": "Chapter Summary",
+    "chapter_id": "pg148_n0004",
+    "level": 2
+  },
+  {
+    "section_id": "pg149_sec001",
+    "href": "pg149_sec001.html",
+    "title": "Budgeting and budgetary control",
+    "chapter_id": "pg149_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg151_sec001",
+    "href": "pg151_sec001.html",
+    "title": "Glossary",
+    "chapter_id": "pg151_n0003",
+    "level": 1
+  },
+  {
+    "section_id": "pg152_sec001",
+    "href": "pg152_sec001.html",
+    "title": "Bibliography",
+    "chapter_id": "pg152_n0003",
+    "level": 1
+  }
+]
