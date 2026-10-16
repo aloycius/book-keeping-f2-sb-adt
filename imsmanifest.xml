@@ -13,9 +13,9 @@
 
   <organizations default="ADT_ORG">
     <organization identifier="ADT_ORG">
-      <title>Book-keeping for Secondary Schools: Student’s Book Form Two</title>
+      <title>Book-keeping for Secondary Schools - Form Two</title>
       <item identifier="ITEM_1" identifierref="RESOURCE_1">
-        <title>Book-keeping for Secondary Schools: Student’s Book Form Two</title>
+        <title>Book-keeping for Secondary Schools - Form Two</title>
       </item>
     </organization>
   </organizations>

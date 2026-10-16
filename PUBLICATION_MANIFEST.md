@@ -9,26 +9,24 @@
 
 ## Included
 
-- Static HTML entry point and page files
-- ADT runtime assets, styles, fonts, images, and content catalogs
-- `imsmanifest.xml`
-- `README.md`
-- `PUBLICATION_MANIFEST.md`
-- `.gitignore`
+- Static HTML entry point and all 152 source-aligned pages
+- ADT runtime assets, source fonts, cropped artwork, and content catalogs
+- 186 English narration clips and word-highlighting metadata
+- `imsmanifest.xml`, `README.md`, this manifest, and GitHub Pages static configuration
 
 ## Excluded
 
-- Source PDF files
-- ADT Studio book databases
-- Entity versions and book-local cache data
+- Source PDF, book databases, entity history, and cache data
 - LLM prompts, responses, logs, and cost records
-- API keys, tokens, `.env` files, and credentials
-- Debug screenshots and temporary audit renders
-- Source maps and local agent instructions
+- API keys, tokens, environment files, and credentials
+- Debug screenshots, audit renders, source maps, and local agent instructions
 - Absolute local paths from the conversion machine
 
 ## Verification
 
-- ADT pipeline completed for 152 source pages.
-- Static bundle copied from the ADT package directory with `AGENTS.md` and source maps excluded.
-- Publication tree should be served from a static web server rooted at the repository root.
+- All 152 pages rebuilt from measured source geometry and compared with the PDF.
+- Word highlighting preserves the positioned text and table structure.
+- Desktop and mobile play, pause, and stop checks cover seven representative pages.
+- All 186 narration files decode successfully; timing is estimated, not forced-aligned.
+- The publication works independently from a static server rooted at this directory.
+- No separate reuse license is granted for the source textbook content.

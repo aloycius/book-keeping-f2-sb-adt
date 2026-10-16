@@ -1,6 +1,6 @@
 {
-  "title": "Book-keeping for Secondary Schools: Student’s Book Form Two",
-  "bundleVersion": "1",
+  "title": "Book-keeping for Secondary Schools - Form Two",
+  "bundleVersion": "source-measured-2026-10-16",
   "languages": {
     "available": [
       "en"
@@ -10,7 +10,7 @@
   "features": {
     "signLanguage": false,
     "easyRead": false,
-    "glossary": true,
+    "glossary": false,
     "eli5": false,
     "readAloud": true,
     "autoplay": true,
@@ -20,7 +20,7 @@
     "notepad": false,
     "state": true,
     "characterDisplay": false,
-    "highlight": false,
+    "highlight": true,
     "activities": false
   },
   "analytics": {
